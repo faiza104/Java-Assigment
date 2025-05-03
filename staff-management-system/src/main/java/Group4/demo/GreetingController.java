@@ -14,6 +14,6 @@ public class GreetingController {
     // GET /greet/{name}
     @GetMapping("/greet/{name}")
     public String greet( ) {
-        return "Hello,  Mohamed ! Welcome to our API.";
+        return "Hello,  Cudoon ! Welcome to our API.";
     }
 }
